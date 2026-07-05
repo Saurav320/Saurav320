@@ -1,34 +1,119 @@
-# 💫 Hi 👋, I'm Saurav Kumar 
-**An Aspiring Sotware Engineer ||  B.Tech CSE @MGCU ||**
+<h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
+<h3 align="center">🚀 MERN Stack Developer | B.Tech CSE Student | Open Source Learner</h3>
 
-Email Me 👉 ✉️ **saurav456skk@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Things+🚀" />
+</p>
 
-- 🔭 **I’m currently working on:** Building some basics project to enhance my machine learning skills
-- 🌱 **I’m currently learning:** AI and DS with ML, DL
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** saurav456skk@gmail.com
-- 😄 **Pronouns:** Saurav
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurav456skk@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Saurav320&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Saurav320&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saurav320&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saurav320&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Saurav320&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student @ MGCUB
+- 🌱 Currently Learning MERN Stack
+- 💻 Passionate about Web Development
+- 🚀 Building Real World Projects
+- 📍 Bihar, India
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,c,cpp"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ Student Management System (MERN)
+
+⭐ GyanSarita
+
+⭐ Portfolio Website
+
+⭐ Face Rating AI
+
+⭐ Spam Email Detection
+
+⭐ Birthday Website
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</p>
